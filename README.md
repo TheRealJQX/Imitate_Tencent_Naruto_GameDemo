@@ -1,6 +1,9 @@
 # Imitate_Tencent_Naruto_GameDemo
 Imitating the design about sliding to choose levels of tencent's naruto game， I did it with great interest.
-临摹一时爽：自己是纯粹的感兴趣，单纯的做一个Demo。
+还没完成，将来我还会完善
+临摹一时爽：仿腾腾讯游戏:火影忍者 里的剧情模块“冒险” Viewpager。
+
+自己是纯粹的感兴趣，单纯的做一个Demo。
 话说，这个游戏很容易让人充钱上瘾，
 那天我看到贴吧里，有个青年 他月薪两千左右，沉迷这个游戏。他就为了抽个奖把工资全部搭进去了，还啥也没拿到. . .
 他发帖子写到，他想自杀。
